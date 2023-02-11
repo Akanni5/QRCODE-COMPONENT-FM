@@ -29,8 +29,8 @@ Mobile Design.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Akanni5/QRCODE-COMPONENT-FM)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/Akanni5/QRCODE-COMPONENT-FM)
+- Live Site URL: [qrcode-component-fm-virid.vercel.app/](https://qrcode-component-fm-virid.vercel.app)
 
 ## My process
 
